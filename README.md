@@ -8,4 +8,9 @@ pkg index.js --targets node14-macos-x64 -o imdb-chart-scraper
 
 ```
 
+### Pre-requisites
+
+* Node (version >= 14)
+* MacOS 64-bit machine
+
 ## Demo
