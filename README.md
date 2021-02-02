@@ -14,3 +14,5 @@ pkg index.js --targets node14-macos-x64 -o imdb-chart-scraper
 * MacOS 64-bit machine
 
 ## Demo
+
+![screenshot](https://github.com/prof-lupin/imdb-chart-fetcher/blob/master/screenshots/Screenshot%202021-02-03%20at%203.13.09%20AM.png)
